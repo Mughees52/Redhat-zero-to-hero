@@ -1,5 +1,5 @@
 # Redhat-zero-to-hero
-I am will teaching and learning Linux along with you guys this repo , this learning totaly based on redhat official learning for the RHCA certification.
+I will be teaching and learning Linux along with you guys this repo , this learning totaly based on redhat official learning for the RHCA certification.
 
 Module 1:
 
